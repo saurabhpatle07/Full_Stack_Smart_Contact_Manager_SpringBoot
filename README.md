@@ -14,17 +14,17 @@ Smart Contact Manager is a full-stack web application that allows users to manag
 
 ## Technologies Used
 
-- **Hibernate**: Object-relational mapping (ORM) framework for managing database operations.
+- **Java**: Core programming language used for backend development.
 - **Spring Boot**: Provides a framework for building production-ready Spring-based applications.
 - **Spring Security**: Offers authentication and authorization functionalities for securing the application.
 - **Spring DevTools**: Enables fast application restarts during development.
+- **Hibernate**: Object-relational mapping (ORM) framework for managing database operations.
 - **MySQL Database**: Relational database management system for storing user accounts and contact data.
 - **Thymeleaf**: Java-based template engine for server-side rendering of HTML.
 - **HTML, CSS, JavaScript**: Frontend technologies for building the user interface.
 - **Bootstrap 5**: Frontend framework for designing responsive and mobile-first websites.
 - **Jakarta Servlet**: Handles HTTP requests and responses for web applications.
 - **Jakarta Mail**: Allows the application to send emails for the forgot password functionality.
-
 
 ## Usage
 
