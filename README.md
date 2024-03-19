@@ -69,3 +69,18 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 # Update Contacts Form :
 ![Screenshot (110)](https://github.com/saurabhpatle07/Smart_Contact_Manager_SpringBoot/assets/107913745/6f594204-42d1-4dc7-9aaf-22a755f0d2d6)
+
+# Registered Email :
+![Screenshot (111)](https://github.com/saurabhpatle07/Smart_Contact_Manager_SpringBoot/assets/107913745/2386f0a3-794e-48e4-9e95-8f2cb7586134)
+
+# OTP Sent To Registered Email :
+![Screenshot (112)](https://github.com/saurabhpatle07/Smart_Contact_Manager_SpringBoot/assets/107913745/69390e41-b3e4-4cfe-8556-6a8cd4c7d4f5)
+
+# Mail's Screenshot From Registered Email :
+![Screenshot (113)](https://github.com/saurabhpatle07/Smart_Contact_Manager_SpringBoot/assets/107913745/4e9cb7cd-8c06-4720-8a30-bff8078d7640)
+
+# Enter OTP Here :
+![Screenshot (114)](https://github.com/saurabhpatle07/Smart_Contact_Manager_SpringBoot/assets/107913745/163e4abd-38fa-4765-b26e-c383f7d4e505)
+
+# Enter New Password :
+![Screenshot (115)](https://github.com/saurabhpatle07/Smart_Contact_Manager_SpringBoot/assets/107913745/a0bbafda-8e0e-4472-b119-9638a31e1370)
