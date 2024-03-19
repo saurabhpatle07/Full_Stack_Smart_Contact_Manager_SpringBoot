@@ -39,3 +39,4 @@ Smart Contact Manager is a full-stack web application that allows users to manag
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or submit a pull request.
 
+![Screenshot (100)](https://github.com/saurabhpatle07/Smart_Contact_Manager_SpringBoot/assets/107913745/a7fe831e-f058-4cb7-ba8e-211a79d34741)
